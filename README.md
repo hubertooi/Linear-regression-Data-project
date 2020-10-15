@@ -3,7 +3,7 @@
 I follow the source code on kaggle created by Ariadne
 url: https://www.kaggle.com/ariadne/simple-one-feature-linear-regression
 
-Some of the code written by Ariadne has been outdated.
+Some of the code written by Ariadne is outdated.
 I learn some codes are no longer working because updated libraries.
 
 It consists of train.csv and test.csv randomly generated just for simple linear regression analysis.
